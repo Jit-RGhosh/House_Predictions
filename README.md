@@ -3,8 +3,9 @@ The aim of this project is to predict the price of the house in King County base
 
 
 ## Project Description:
-	The aim of this project is to predict the price of the house in King County based on the different properties of the house given. This is a Regression problem. This kind of project helps us to understand the factors on which the prices of a house depend and helps us to find out the near to correct prices.
-	The dataset includes different columns along with the target column, price. Below are the following features given.
+The aim of this project is to predict the price of the house in King County based on the different properties of the house given. 
+This is a Regression problem. This kind of project helps us to understand the factors on which the prices of a house depend and helps us to find out the near to correct prices.
+The dataset includes different columns along with the target column, price. Below are the following features given.
 
 ●	id                 int64 (continuous variable)
 
